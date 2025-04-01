@@ -2,8 +2,11 @@
 - 👀 I’m interested in Mobile Application Development & Ai , and also in video Editing
 - 🌱 I’m currently learning The Stack of Devloping Mobile Applications
 - 💞️ I’m looking to collaborate on Develope and share my knowldge
-- 📫 How to reach me : hasanbatal2900@gmail.com
-- 😄 Pronouns: He
+- 📫 How to reach me :
+    📧 hasanbatal2900@gmail.com
+    🔗 https://www.linkedin.com/in/hasan-batal
+    🔗 https://www.facebook.com/hasan.batal.969
+- 😄 Hobbies: Chess, playing Vide games 
 - ⚡ Fun fact: I’m a solo dev crafting apps in my mental fortress of solitude—where bugs fear to tread, and every commit is a plot twist in my superhero origin story.
 
 <!---
