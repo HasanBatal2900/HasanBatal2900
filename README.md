@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 
     📧 hasanbatal2900@gmail.com
-- 😄 Hobbies: Chess, playing Video games 
+- 😄 Hobbies: ♟, 🎮,🎥
 - ⚡ Fun fact: I’m a solo dev crafting apps in my mental fortress of solitude—where bugs fear to tread, and every commit is a plot twist in my superhero origin story.
 
 
