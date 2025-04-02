@@ -15,7 +15,7 @@ Flutter, Cross-Platform Development, Dart , Restful Api , State Mangement , Bloc
 ## 🔗 Links
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasan.batal.969)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-batal)
-[![email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=email&logoColor=white)](https://katherineoelsner.com/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanbatal2900@gmail.com)
 
 
 <!---
